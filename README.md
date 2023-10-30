@@ -32,7 +32,7 @@ Esta é uma API RESTful desenvolvida com Node.js, Express, TypeScript e MongoDB 
 
 ### Exclusão de Filme por ID
 
-- **Rota**: `DELETE /api/filmes/:id`
+- **Rota**: `DELETE /api/movie/:id`
 - **Parâmetros**: `id` é o ID único do filme.
 
 ### Listagem de Todos os Filmes
