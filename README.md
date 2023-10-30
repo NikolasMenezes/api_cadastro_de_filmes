@@ -42,5 +42,3 @@ Esta é uma API RESTful desenvolvida com Node.js, Express, TypeScript e MongoDB 
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-```
